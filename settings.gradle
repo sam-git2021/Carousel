@@ -7,5 +7,4 @@ dependencyResolutionManagement {
   }
 }
 rootProject.name = "Carousel"
-include ':app'
 include ':carousel'
